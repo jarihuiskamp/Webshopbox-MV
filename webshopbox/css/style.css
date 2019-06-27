@@ -1,0 +1,99 @@
+/*HOME - 3 boxen stijlen */
+.jari_box-text, .jari_box-text-head {
+  padding: 0 50px;
+}
+
+.jari_box-text-head {
+  text-align: center;
+}
+
+.jari_box-text-btn {
+  text-align: center;
+  color: #fff;
+  background-color: #34d84f;
+  border: solid 1px #34d84f;
+  width: 400px;
+  border-radius: 10px;
+  margin: 0 50px;
+}
+
+.pad-bot {
+  padding-bottom: 30px;
+}
+
+.pad-bot2 {
+  padding-bottom: 100px;
+}
+
+.pad-top {
+  padding-top: 100px;
+}
+
+.nieuwsbrief-box {
+  text-align: center;
+}
+
+.nieuwsbrief {
+  background-color: #34d84f;
+  border-radius: 10px;
+  border: 1px solid #34d84f;
+  width: 300px;
+  height: 30px;
+}
+
+.btn-nieuwsbrief {
+  border: 1px solid #34d84f;
+  color: #34d84f;
+  background-color: #fff;
+}
+.btn-nieuwsbrief:hover {
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: #34d84f;
+}
+
+.jari_footer {
+  padding-left: 100px;
+}
+.jari_footer a {
+  color: #34d84f;
+}
+
+.footer-bottom {
+  text-align: center;
+  font-size: 13px;
+}
+
+/*OVER ONS */
+.content-links {
+  float: left;
+  margin: 0 40px;
+}
+.content-links p {
+  padding-bottom: 10px;
+}
+
+.content-links h1 {
+  font-weight: 600;
+}
+.content-rechts {
+  float: right;
+  text-align: center;
+}
+
+/*CONTACT */
+.pad-contact {
+  padding: 0 150px;
+}
+.pad-contact h1 {
+  padding-bottom: 30px;
+  font-weight: 600;
+}
+
+.pad-contact p {
+  padding-bottom: 10px;
+}
+
+.border-left {
+  border-left: 5px green solid;
+}
