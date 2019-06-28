@@ -64,6 +64,9 @@
   font-size: 13px;
 }
 
+/*WHITESPACE */
+
+
 /*OVER ONS */
 .content-links {
   float: left;
@@ -96,4 +99,19 @@
 
 .border-left {
   border-left: 5px green solid;
+}
+
+/*ONZE BOXEN */
+.box-text-onze {
+text-align: center;
+}
+
+.btn-bestel {
+  text-align: center;
+  color: #fff;
+  background-color: #34d84f;
+  border: solid 1px #34d84f;
+  width: 300px;
+  border-radius: 10px;
+  margin: 0 50px;
 }

@@ -81,9 +81,9 @@
         </a>
       </div>
 
-      <div class="col-md-12 pad-bot">
+      <div class="col-md-12 pad-bot pad-top">
         <a href="onze-boxen.php">
-          <img src="img/proefbox-placeholder.jpg" alt="proef-box" width="100%">
+          <img src="img/banner-candy1 - Copy.jpg" alt="proef-box" width="100%">
         </a>
       </div>
 
@@ -172,7 +172,6 @@
       <div class="col-md-12 footer-bottom">
           <p>Copyright © 2019, All rights reserved | Created by Jari Huiskamp </p>
       </div>
-
     </div>
   </body>
 </html>
